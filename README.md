@@ -32,7 +32,7 @@ void Billing_counter()         //calculate bill of student
 	{
 		for(j=i+1;j<n;j++)
 		{
-			if(pr[i]>pr[j])
+			if(pr[i]<pr[j])
 			{
 				temp1=pr[i];
 				pr[i]=pr[j];
