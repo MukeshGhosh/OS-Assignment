@@ -5,7 +5,7 @@
 void welcome()
 
 {
-	//printf("------------------------------------------WELCOME-------------------------------------\n\n");
+	printf("------------------------------------------WELCOME-------------------------------------\n\n");
 	printf("Name: Mukesh Ghosh\n");
 	printf("Roll number: 18\n");
 	printf("Section:K18JC\n");	
