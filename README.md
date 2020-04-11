@@ -66,7 +66,7 @@ for(i=1;i<n;i++)
 	printf("\navg waiting time=%f",avg);
 	getch();
 }
-void main()
+int main()
 {	welcome();
 	int a;
 printf("Press 1 for main menu:\n");
@@ -79,6 +79,6 @@ printf("Press 1 for main menu:\n");
 	case 2:
 	exit(0);
 	}
-//return 0;
+return 0;
 }
 
